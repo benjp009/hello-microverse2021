@@ -1,4 +1,4 @@
-# hello Microverse 2021 | Made with ☕️ by Ben P
+# Hello Microverse 2021 | Made with ☕️ by Ben P
 
 Day 2 - Set Up a "Hello Microverse" project
 
@@ -13,4 +13,4 @@ Step 8: Open a pull request.</br>
 
 
 All done !!
-Enjoy 
+Enjoy
