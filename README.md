@@ -2,7 +2,7 @@
 
 Day 2 - Set Up a "Hello Microverse" project
 
-✅ Step 1: Create a new GitHub repo.
+✅ Step 1: Create a new GitHub repo. </br>
 ✅ Step 2: Create a new branch according to the GitHub flow rules.
 ✅ Step 3: Add a .gitignore file.
 Step 4: Set up a linter for HTML and CSS and make sure that any files that are not relevant are ignored by git.
