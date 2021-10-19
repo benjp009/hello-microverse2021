@@ -1,5 +1,6 @@
-# Google App Engine generated folder
-appengine-generated/
 
-# Ignore all md files
-*.md
+# .gitignore
+node_modules/
+
+# Ignore test.md
+test.md
