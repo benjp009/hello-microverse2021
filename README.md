@@ -28,28 +28,12 @@ Day 2 - Set Up a "Hello Microverse" project
 ✅ Step 8: Open a pull request.<br>
 
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
 ## Authors
 
 👤 **Author1**
 
-- benjp009: [@githubhandle](https://github.com/benjp009)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/benjamin_patin)
+- benjp009: [@benjp009](https://github.com/benjp009)
+- LinkedIn: [benjamin_patin](https://linkedin.com/in/benjamin_patin)
 
 
 ## 🤝 Contributing
